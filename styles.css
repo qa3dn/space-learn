@@ -1,0 +1,45 @@
+body {
+    
+    color: #70c2db;
+    background-image: url("image/qq.webp");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Bitter', sans-serif;
+}
+
+.btn{
+
+    padding: 4px 4px;
+    background:#70c2db;
+    border: none;
+    font-family: inherit;
+   
+}
+
+.unl {
+
+    border-bottom: 2px solid#70c2db ;
+}
+
+#main-logo{
+
+    width: 100px;
+}
+
+#hero{
+    background-image: url("image/galaxy.webp");
+    padding: 10px 0 40px 0;
+}
+#p2{
+    
+    color: #cecece;
+    text-shadow: 0px 0px 4px black;
+}
+#ul{
+    text-shadow: 10px 10px 9px black;
+}
+
+#link-color{
+    color: #ffffff; 
+    text-shadow: 10px 10px 9px black;
+}
